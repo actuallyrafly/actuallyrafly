@@ -2,14 +2,11 @@
 
 A passionate **Software Engineering Student** focused on Web & Application Development. 
 
-raflyagassi.com
-
 ---
 
-### 🚀 About Me
-- 🎓 Currently studying to become a **Software Engineer**.
-- 💻 Learning & working with **JavaScript**, and **React**.
----
+### 🌐 Connect & Portfolio
+- 🌐 **Portfolio:** [raflyagassi.com](https://raflyagassi.com)
+- 📫 **How to reach me:** Check out my portfolio above or explore my pinned repositories below!
 
 ### 🛠️ Tech Stack & Tools
 
