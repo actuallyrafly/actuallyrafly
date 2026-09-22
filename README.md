@@ -6,15 +6,11 @@ A passionate **Software Engineering Student** focused on Web & Application Devel
 
 ### 🚀 About Me
 - 🎓 Currently studying to become a **Software Engineer**.
-- 💻 Learning & working with **Java**, **JavaScript**, and **React**.
-- 📚 Building projects focused on **OOP principles** and **CRUD architecture** (like [KomikTrack](https://github.com/USERNAME_KAMU/komik-track)).
-- 🎯 Goal: Continuously expanding my software development skills and building cool projects.
-
+- 💻 Learning & working with **JavaScript**, and **React**.
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
