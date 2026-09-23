@@ -25,5 +25,3 @@ A passionate **Software Engineering Student** focused on Web & Application Devel
 </p>
 
 ---
-
-📫 **How to reach me:** You can find my latest projects pinned on my profile!
