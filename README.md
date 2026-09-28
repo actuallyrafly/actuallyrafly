@@ -1,6 +1,6 @@
 # Hi there, I'm Rafly Agassi 👋
 
-A passionate **Software Engineering Student** focused on Web & Application Development. 
+A passionate **Software Engineering** focused on Web & Application Development. 
 
 ---
 
