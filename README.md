@@ -1,6 +1,6 @@
 # Hi there, I'm Rafly Agassi 👋
 
-A passionate **Software Engineering** focused on Web & Application Development. 
+A passionate **Software Engineering Student & Developer** focused on Web Development, System Architecture, and exploring the frontier of **Quantum Computing**.
 
 ---
 
@@ -8,20 +8,30 @@ A passionate **Software Engineering** focused on Web & Application Development.
 - 🌐 **Portfolio:** [raflyagassi.com](https://raflyagassi.com)
 - 📫 **How to reach me:** Check out my portfolio above or explore my pinned repositories below!
 
-### 🛠️ Tech Stack & Tools
+---
 
+### 🛠️ Tech Stack & Minat
+
+#### Web & Application Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+#### ⚛️ Quantum Computing & Research Exploration
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+> 🌌 *Currently diving into Quantum Algorithms, Qiskit, and exploring how Quantum Computing intersects with Classical Software Systems.*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raflyagassi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflyagassi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
-
----
