@@ -29,8 +29,8 @@ A passionate **Software Engineering Student & Developer** focused on Web Develop
 
 ---
 
-### 🧩 Problem Solving & Competitive Coding
+### 🧩 Leetcode
 
 <p align="center">
-  <img src="https://leetcode-stats-card.vercel.app/?username=actuallyrapboy&theme=tokyonight" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-api.herokuapp.com/actuallyrapboy" alt="LeetCode Stats" />
 </p>
