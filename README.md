@@ -28,10 +28,3 @@ A passionate **Software Engineering Student & Developer** focused on Web Develop
 > 🌌 *Currently diving into Quantum Algorithms, Qiskit, and exploring how Quantum Computing intersects with Classical Software Systems.*
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raflyagassi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflyagassi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
