@@ -28,3 +28,9 @@ A passionate **Software Engineering Student & Developer** focused on Web Develop
 > 🌌 *Currently diving into Quantum Algorithms, Qiskit, and exploring how Quantum Computing intersects with Classical Software Systems.*
 
 ---
+
+### 🧩 Problem Solving & Competitive Coding
+
+<p align="center">
+  <img src="https://leetcode-stats-card.vercel.app/?username=actuallyrapboy&theme=tokyonight" alt="LeetCode Stats" />
+</p>
