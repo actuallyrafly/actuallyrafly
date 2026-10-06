@@ -31,6 +31,3 @@ A passionate **Software Engineering Student & Developer** focused on Web Develop
 
 ### 🧩 Leetcode
 
-<p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/actuallyrapboy" alt="LeetCode Stats" />
-</p>
